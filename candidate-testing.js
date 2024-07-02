@@ -63,7 +63,6 @@ function gradeQuiz(candidateAnswers) {
   }
 
   console.log(`
-    Candidate Name: ${candidateName}
     1) Who was the first American woman in space?
     Your Answer: ${candidateAnswers[0]}
     Correct Answer: Sally Ride
